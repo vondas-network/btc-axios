@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <title>My first Bitcoin HTTP/HTTPS request</title>
+    <script src="https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0"></script>
+</head>
+
+<body>
+    <p>Click to make GET request</p>
+    <p>Check browser inspector for data</p>
+    <button id="myButton">Click me!</button>
+</body>
+<script>
+    const button = document.getElementById('myButton');
+    button.addEventListener('click', function(e) {
+        axios.get('https://jsonplaceholder.typicode.com/posts/1')
+            .then(function(response) {
+                console.log(response.data);
+            })
+            .catch(function(error) {
+                console.log(error);
+            });
+    });
+</script>
+
+</html>
