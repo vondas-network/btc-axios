@@ -1,6 +1,6 @@
 
-<h1 align="left">btc-axios</h1>
+<h1 align="center">btc-axios</h1>
 
-<h3 align="left">
-  <img height="255" width="255" src="https://ipfs.io/ipfs/QmeKe8bQjQA9rGgq9VK9kaSjcozbXShw6ppQRaNpnaMnFX"/>
+<h3 align="center">
+  <img height="255" width="255" src="https://github.com/vondas-network/btc-axios/blob/main/img/btc.png"/>
 </h3>
