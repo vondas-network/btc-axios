@@ -11,6 +11,7 @@ Example of creating a HTTP GET request using JavaScript and an Axios Bitcoin Ord
 ## References
 - [Twitter](https://twitter.com/the_garbage_man)
 - Medium
+- [Axios as Bitcoin Ordinal](https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0)
 
 ## How to use?
 Clone the library.
