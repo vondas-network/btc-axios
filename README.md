@@ -6,7 +6,7 @@
 </h3>
 
 ## Description
-Example of creating a HTTP GET request using JavaScript and an Axios Bitcoin Ordinal. 
+A website that executes a HTTP GET request Axios hosted on the Bitcoin blockchain using the Ordinal protocol.
 
 ## References
 - [Twitter](https://twitter.com/the_garbage_man)
