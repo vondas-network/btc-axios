@@ -10,7 +10,7 @@ A website that executes a HTTP GET request Axios hosted on the Bitcoin blockchai
 
 ## References
 - [Twitter](https://twitter.com/the_garbage_man)
-- Medium
+- [Medium](https://medium.com/@gg.the.garbage.man.gg/making-a-get-request-with-axios-hosted-on-the-bitcoin-blockchain-5068f34b5b4e)
 - [Axios as Bitcoin Ordinal](https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0)
 
 ## How to use?
