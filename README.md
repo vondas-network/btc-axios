@@ -1,12 +1,12 @@
 
-<h1 align="center">btc-axios</h1>
+<p align="center">
+  <img height="50%" width="50%" src="https://github.com/vondas-network/btc-axios/blob/main/img/btcaxios-logo.png?raw=true"/>
+</p>
 
-<h3 align="center">
-  <img height="255" width="255" src="https://github.com/vondas-network/btc-axios/blob/main/img/btc.png"/>
-</h3>
+<p align="center"><em>Executing decentralized HTTP requests using Javascript and Bitcoin Ordinals</em></p> 
 
 ## Description
-A website that executes a HTTP GET request Axios hosted on the Bitcoin blockchain using the Ordinal protocol.
+An example website that executes a HTTP GET request Axios hosted on the Bitcoin blockchain using the Ordinal protocol. Users can execute a HTTP GET request via Axios hosted on the Bitcoin blockchain using the Ordinal protocol. A Bitcoin Ordinal inscribed with the minified Axios version 1.4.0 library is available as a CDN on the Bitcoin blockchain. You can access the Bitcoin version of Axios by calling the Ordinal URL using the <script> tag. This is a form of decentralized HTTP protocols.
 
 ## References
 - [Axios as Bitcoin Ordinal](https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0)
